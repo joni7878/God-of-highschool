@@ -6,3 +6,6 @@
 
 ## Credits
 DemSlayer#7008
+
+# Discord server
+Join [this server](https://discord.gg/sKr7qXr5rG)
